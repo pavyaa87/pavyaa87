@@ -1,7 +1,7 @@
  ![logo](https://github.com/pavyaa87/pavyaa87/blob/main/Purple%20and%20Black%20Simple%20Gamer%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pravin Thote</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
-<img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width"450" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif">
 
 - 🌱 I’m currently learning **Android Development**
 
