@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <img align="right" alt="coding" width"450" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif">
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development in Flutter**
 
 - 📫 How to reach me **thotepravin71@gmail.ocm**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pravin thote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin thote" height="30" width="40" /></a>
-<a href="https://instagram.com/praveen__5617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravin__5617" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pravin-thote-54a839302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin thote" height="30" width="40" /></a>
+<a href="https://instagram.com/pravin_5617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravin__5617" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ghoxtlike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ghoxtlike" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/AQycVW43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AQycVW43" height="30" width="40" /></a>
 </p>
